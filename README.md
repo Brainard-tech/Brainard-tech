@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and express**
 
-- 💬 Ask me about **Html,Css,Boostrap,javascript,flutter and dart**
+- 💬 Ask me about **Html,Css,Boostrap,Javascript,Flutter and Dart**
 
 - 📫 How to reach me **Omoareleonard@gmail.com**
 
