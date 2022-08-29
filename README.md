@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js and express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Brainard-tech/](https://github.com/Brainard-tech/)
+- 👨‍💻 All of my projects are available at [https://github.com/Brainard-tech/](https://github.com/Brainard-tech?tab=repositories)
 
 - 💬 Ask me about **Html,Css,Boostrap,javascript,flutter and dart**
 
