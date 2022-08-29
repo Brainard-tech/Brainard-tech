@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainard-tech&label=Profile%20views&color=0e75b6&style=flat" alt="brainard-tech" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brainard-tech" alt="brainard-tech" /></a> </p>
+
+- 🔭 I’m currently working on **Quiz app**
+
 - 🌱 I’m currently learning **Node.js and express**
 
-- 💬 Ask me about **Html,Css,Boostrap,Javascript,Flutter and Dart**
+- 👨‍💻 All of my projects are available at [https://github.com/Brainard-tech/](https://github.com/Brainard-tech/)
+
+- 💬 Ask me about **Html,Css,Boostrap,javascript,flutter and dart**
 
 - 📫 How to reach me **Omoareleonard@gmail.com**
 
@@ -21,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brainard-tech&show_icons=true&locale=en" alt="brainard-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainard-tech&" alt="brainard-tech" /></p>
-
