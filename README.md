@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brainard</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm  Brainard</h1>
+<h3 align="center">A 13yrs old passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainard-tech&label=Profile%20views&color=0e75b6&style=flat" alt="brainard-tech" /> </p>
 
